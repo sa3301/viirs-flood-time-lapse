@@ -1,0 +1,10 @@
+numpy
+xarray
+netCDF4
+rioxarray
+matplotlib
+Pillow
+leafmap
+imageio
+imageio-ffmpeg
+jupyter
